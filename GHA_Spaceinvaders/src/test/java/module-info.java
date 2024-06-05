@@ -1,0 +1,2 @@
+module GHA.Spaceinvaders.test {
+}
